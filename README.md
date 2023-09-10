@@ -24,11 +24,17 @@
 
 <p align="left"> <a href="https://twitter.com/ibrahimcemkls" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimcemkls?logo=twitter&style=for-the-badge" alt="ibrahimcemkls" /></a> </p>
 
-- 🌱 I’m currently learning **Arduino, Java , C++ , etc.**
+- 🌱 **_I’m currently learning **Arduino, Java , C++ , etc._**
 
-- 📫 You can reach me at this e-mail **ibrahimcemm.keles@gmail.com**
+- 📫 **_You can reach me at this e-mail ibrahimcemm.keles@gmail.com _**
 
-- 📖 Associate Degree Student in Web Design and Coding at Kırşehir Ahi Evran University  
+- 📖 **_Associate Degree Student in Web Design and Coding at Kırşehir Ahi Evran University_**
+
+-  👨‍💻 **_My current goal is to learn C++, Java and Arduino_**
+
+-  🗺️ **_My hobbies include watching TV series, playing games, reading books, learning the instrument, listening to music and developing social skills._**
+
+-  😃 **_If you want to contact me, you can reach me from the links linked._**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
