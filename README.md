@@ -22,7 +22,6 @@
 <h1 align="center">Hi 👋, I'm İbrahim Cem</h1>
 <h3 align="center">Hello, welcome to my page. Ibrahim Cem was born in 2002 and I am a Turkish citizen, I am trying projects to improve myself in the software field. I am still in the learning phase. And I publish my projects as open source codes.</h3>
 
-<p align="left"> <a href="https://twitter.com/ibrahimcemkls" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimcemkls?logo=twitter&style=for-the-badge" alt="ibrahimcemkls" /></a> </p>
 
 - 🌱 **_I’m currently learning **Arduino, Java , C++ , etc._**
 
