@@ -26,7 +26,7 @@
 
 - 🌱 **_I’m currently learning **Arduino, Java , C++ , etc._**
 
-- 📫 **_You can reach me at this e-mail ibrahimcemm.keles@gmail.com _**
+- 📫 **_You can reach me at this e-mail ibrahimcemm.keles@gmail.com_**
 
 - 📖 **_Associate Degree Student in Web Design and Coding at Kırşehir Ahi Evran University_**
 
