@@ -20,13 +20,14 @@
 
 
 <h1 align="center">Hi 👋, I'm İbrahim Cem</h1>
-<h3 align="center">Greetings.
+<h3 align="center"Greetings.
 First of all, welcome to my page. I am Ibrahim Cem born in 2002 and I am actively living in Turkey.
 I have been interested in sports and technology since I was little.
 Until this age, I have been in various sports fields, although not professionally.
 And in the field of technology, which I have been interested in since those years, I strive to create my own projects from basic to expert degree.
 
-                                          Thank you in advance for browsing my page.
+                     Thank you in advance for browsing my page.
+
 </h3>
 
 
