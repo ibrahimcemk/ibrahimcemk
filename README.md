@@ -23,7 +23,7 @@
 <h3 align="center">Hello, welcome to my page. Ibrahim Cem was born in 2002 and I am a Turkish citizen, I am trying projects to improve myself in the software field. I am still in the learning phase. And I publish my projects as open source codes.</h3>
 
 
-- 🌱 **_I’m currently learning Arduino, Java , C++ , etc._**
+- 📚 **_I’m currently learning Arduino, Java , C++ , etc._**
 
 - 📫 **_You can reach me at this e-mail ibrahimcemm.keles@gmail.com_**
 
