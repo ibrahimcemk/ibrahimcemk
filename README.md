@@ -45,6 +45,8 @@ And in the field of technology, which I have been interested in since those year
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/ibrahimcemk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibrahimcemk" height="30" width="40" /></a>  
+<a href="https://codepen.io/ibrahimcemk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibrahimcemk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibrahim-cem-kele%C5%9F-b20b15288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinbo" height="30" width="40" /></a>  
 <a href="https://twitter.com/ibrahimcemkls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimcemkls" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahimcemm.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimcemm.k" height="30" width="40" /></a>
