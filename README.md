@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm İbrahim Cem</h1>
+<h1 align="center">Hello 👋,Welcome To My Github Page </h1>
 <h3 align="center">Greetings.
 First of all, welcome to my page. I am Ibrahim Cem born in 2002 and I am actively living in Turkey.
 I have been interested in sports and technology since I was little.
