@@ -46,7 +46,6 @@ And in the field of technology, which I have been interested in since those year
 <a href="https://codepen.io/ibrahimcemk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibrahimcemk" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ibrahim-cem-keles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinbo" height="30" width="40" /></a>  
 <a href="https://instagram.com/ibrahimcemmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimcemm.k" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCI3T_Iusc3D_LvhpJzAx2Zw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibrahimcemkeles" height="30" width="40" /></a>
 <a href="https://codepen.io/ibrahimcemk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibrahimcemk" height="30" width="40" /></a>
 </p>
 
