@@ -6,7 +6,9 @@
 
 
 <h1 align="center">Hello 👋,Welcome To My Github Page </h1>
+<br>
 <h3 align="center">Greetings.
+<br>
 First of all, welcome to my page. I am Ibrahim Cem born in 2002 and I am actively living in Turkey.
 I have been interested in sports and technology since I was little.
 Until this age, I have been in various sports fields, although not professionally.
