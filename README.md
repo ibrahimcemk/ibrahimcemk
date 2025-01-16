@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ibrahimcemk/gifrepo/main/Ibrahim%20Cem%20Keleş.gif" alt="Welcome GIF" style="width: 300px; height: auto;" />
+<img src="https://raw.githubusercontent.com/ibrahimcemk/gifrepo/main/%C4%B0brahim%20Cem%20Kele%C5%9F.gif" alt="Welcome GIF" style="width: 300px; height: auto; margin-bottom: 20px;" />
 
 
 <div align="center">
