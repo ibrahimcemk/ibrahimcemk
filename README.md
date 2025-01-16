@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="[https://github.com/ibrahimcemk/gifrepo](https://github.com/ibrahimcemk/gifrepo/blob/8bffa41171cafd0ca8da5e79b6ec3360840a0959/%C4%B0brahim%20Cem%20Kele%C5%9F.gif)" alt="Welcome GIF" style="width: 300px; height: auto; margin-bottom: 20px;" />
-</div>
+<img src="https://raw.githubusercontent.com/ibrahimcemk/gifrepo/main/Ibrahim%20Cem%20Keleş.gif" alt="Welcome GIF" style="width: 300px; height: auto;" />
+
 
 <div align="center">
   <marquee direction="left" behavior="scroll" scrollamount="5" style="font-size: 2em; color: #3498db; font-weight: bold;">
