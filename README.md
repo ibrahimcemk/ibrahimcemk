@@ -104,29 +104,6 @@ Amacım, tasarımdaki hassasiyeti teknik mükemmeliyetle buluşturmak ve her pro
 
 ---
 
-## 🧩 Maintenance Notes & Pro Tips / Geliştirme Notları & Profesyonel Tavsiyeler
 
-🔹 **Update Regularly:**  
-Keep your “Currently Working On” and “Learning” sections up to date every 2–3 months. It shows growth and engagement.
-
-🔹 **Use Pinned Repositories Strategically:**  
-Pin only your top 3–4 projects — the ones that show both creativity and code quality. Quality > Quantity.
-
-🔹 **Visual Balance:**  
-Maintain a clean, symmetric layout with equal spacing between sections. Markdown formatting consistency gives a “UI” effect to your README.
-
-🔹 **Add a Custom Emoji Style:**  
-Use consistent icons (🌐, ⚡, 🧠) throughout. They guide the reader visually and improve scannability.
-
-🔹 **Enhance with Shields.io Badges (Optional):**  
-You can add badges for your main skills like:  
-`![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)`  
-to make tech stack stand out in color.
-
-🔹 **Profile Optimization Tip:**  
-Link your portfolio and LinkedIn in your GitHub bio (not just README). Recruiters often click there first.
-
-🔹 **Visual Impact Idea (Optional):**  
-You can add a gradient line between sections using Markdown:
 ```html
 <hr style="border: 1px solid #0d6efd; border-radius: 5px;">
