@@ -105,5 +105,5 @@ Amacım, tasarımdaki hassasiyeti teknik mükemmeliyetle buluşturmak ve her pro
 ---
 
 
-```html
+
 <hr style="border: 1px solid #0d6efd; border-radius: 5px;">
