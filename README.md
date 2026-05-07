@@ -40,16 +40,6 @@ Amacım, tasarımdaki hassasiyeti teknik mükemmeliyetle buluşturmak ve her pro
 
 ---
 
-## ⚙️ Dynamic Content / Dinamik İçerikler
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimcemk&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ibrahimcemk&theme=github_dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcemk&theme=github_dark&hide_border=false&layout=compact)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahimcemk&theme=github-dark)
-
----
-
 ## 🧩 Currently Working On / Şu Anda Üzerinde Çalıştıklarım
 - Building my **personal portfolio website** (React + Figma integration)  
 - Enhancing my **React Native** and **Django** skills  
@@ -72,10 +62,10 @@ Amacım, tasarımdaki hassasiyeti teknik mükemmeliyetle buluşturmak ve her pro
 
 ## 💬 Contact / Let’s Connect
 
-📧 [Email](mailto:ibrahimmcemkeles@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-cem-keles/)  
-🎨 [Behance](https://behance.net/brahimcemkele)  
-📸 [Instagram](https://www.instagram.com/ibrahimcemmk/)
+📧 [Email Adresim](mailto:ibrahimmcemkeles@gmail.com)  
+💼 [LinkedIn Adresim](https://www.linkedin.com/in/ibrahim-cem-keles/)  
+🎨 [Behance Adresim](https://behance.net/brahimcemkele)  
+📸 [Instagram Adresim](https://www.instagram.com/ibrahimcemmk/)
 
 > Always open to new collaborations, freelance projects, and creative problem-solving.  
 > Her zaman yeni iş birliklerine, freelance projelere ve yaratıcı çözümler üretmeye açığım.
