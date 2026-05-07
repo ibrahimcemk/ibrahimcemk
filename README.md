@@ -50,17 +50,6 @@ Amacım, tasarımdaki hassasiyeti teknik mükemmeliyetle buluşturmak ve her pro
 
 ---
 
-## 📌 Featured & Pinned Projects / Öne Çıkan ve Sabit Projeler
-
-> 💡 My key projects that combine design & development / Tasarım ve kodlamayı bir araya getirdiğim başlıca projelerim:
-
-- 🖥️ [**Portfolio Website**](https://github.com/ibrahimcemk/portfolio-site) — Modern, minimal React portfolio with UI/UX focus  
-- 📱 [**React Native First App**](https://github.com/ibrahimcemk/react-native-firstapp) — First steps in mobile UI/UX design and cross-platform logic  
-- 🧩 [**Django Blog**](https://github.com/ibrahimcemk/django-blog) — Blog project focusing on clean backend architecture  
-- 🎨 [**UI/UX Showcase**](https://github.com/ibrahimcemk/uiux-showcase) — A curated collection of my design works  
-
----
-
 ## 🧩 Currently Working On / Şu Anda Üzerinde Çalıştıklarım
 - Building my **personal portfolio website** (React + Figma integration)  
 - Enhancing my **React Native** and **Django** skills  
@@ -83,10 +72,10 @@ Amacım, tasarımdaki hassasiyeti teknik mükemmeliyetle buluşturmak ve her pro
 
 ## 💬 Contact / Let’s Connect
 
-📧 [Email](mailto:ibrahimcemm.keles@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/ibrahim-cem-keles)  
+📧 [Email](mailto:ibrahimmcemkeles@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-cem-keles/)  
 🎨 [Behance](https://behance.net/brahimcemkele)  
-📸 [Instagram](https://instagram.com/ibrahimcemmk)
+📸 [Instagram](https://www.instagram.com/ibrahimcemmk/)
 
 > Always open to new collaborations, freelance projects, and creative problem-solving.  
 > Her zaman yeni iş birliklerine, freelance projelere ve yaratıcı çözümler üretmeye açığım.
